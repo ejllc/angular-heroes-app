@@ -1,0 +1,14 @@
+img {
+    max-height: fit-content;
+    max-width: 400px !important;
+    object-fit: cover;
+    object-position: center;
+    align-items: center;
+    /* this centers and crops the image so that it doesn't break the aspect ratio */
+}
+
+.card-image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
