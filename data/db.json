@@ -8,22 +8,6 @@
   ],
   "heroes": [
     {
-      "id": "dc-batman",
-      "superhero": "Batman",
-      "publisher": "DC Comics",
-      "alter_ego": "Bruce Wayne",
-      "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
-    },
-    {
-      "id": "dc-superman",
-      "superhero": "Superman",
-      "publisher": "DC Comics",
-      "alter_ego": "Kal-El",
-      "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
-    },
-    {
       "id": "dc-flash",
       "superhero": "Flash",
       "publisher": "DC Comics",
@@ -166,15 +150,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "s--zKbY",
-      "superhero": "SuperRatón",
-      "publisher": "DC Comics",
-      "alter_ego": "Gonzalez",
-      "first_appearance": "En la tv # 3",
-      "characters": "dacdsdc",
-      "alter_img": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/46fb6b8f-5b44-4402-b350-3b3898e5b062/dcsmbv4-9ba71ad7-25e5-44f9-9d2b-bc9452d900ff.png/v1/fill/w_758,h_1054/super_raton_by_marcmore_dcsmbv4-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTEzMSIsInBhdGgiOiJcL2ZcLzQ2ZmI2YjhmLTViNDQtNDQwMi1iMzUwLTNiMzg5OGU1YjA2MlwvZGNzbWJ2NC05YmE3MWFkNy0yNWU1LTQ0ZjktOWQyYi1iYzk0NTJkOTAwZmYucG5nIiwid2lkdGgiOiI8PTgxMyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.Q8A89G6JoAow6nd5jdfrhBA_VIbGj3FOzbDettF0YWw"
     }
   ]
 }
